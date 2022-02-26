@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-![WhatsApp Image 2022-02-23 at 5 52 57 PM](https://user-images.githubusercontent.com/44275924/155840367-459bd637-1d84-4318-8085-658d3a3c7f5e.jpeg)
 
 
 This project is a starting point for a Flutter application.
